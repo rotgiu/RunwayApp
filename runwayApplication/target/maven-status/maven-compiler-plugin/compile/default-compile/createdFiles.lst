@@ -1,0 +1,5 @@
+it/rotgiu/model/Runway.class
+it/rotgiu/model/Country.class
+it/rotgiu/App.class
+it/rotgiu/model/Airport.class
+it/rotgiu/service/RunwayService.class
